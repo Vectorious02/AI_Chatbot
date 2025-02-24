@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 127455,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Texas and California are the biggest state losers from Trump's escalating tariffs",
+      "description": "Trump's tariffs on products from the EU and TK add to a big trade bill that will hit U.S. states, with Texas and California economies the most impacted.",
+      "url": "https://www.cnbc.com/2025/02/13/texas-california-are-biggest-state-losers-in-trumps-tariffs-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108043587-1728065595075-gettyimages-2175824431-US_PORT_STRIKE.jpeg?v=1739463021&w=1920&h=1080",
+      "publishedAt": "2025-02-13T20:32:18Z",
+      "content": "Texas and California have lately been at odds over both political and economic ideologies, but when it comes to both the existing and reciprocal tariffs proposed by President Trump on Thursday, the t\u2026 [+5127 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Sarfraz Khan",
+      "title": "V-Color Launches Xfinity SCC O CUDDIM RGB Kit With Up To 8800 MT/s Speed, Presents DDR5 DRAM And Filler Modules Combo",
+      "description": "V-Color's new RAM kit will have two DDR5 DRAM and two filler modules for filling up all the DIMMs on the latest Intel and AMD motherboards. \"Speed Booster, Colorful Makeover, and Cost Effective\" O CUDIMM DDR5 RGB Kit Debuted The popular high-performance memor\u2026",
+      "url": "https://wccftech.com/v-color-launches-xfinity-scc-o-cuddim-rgb-kit-with-up-to-8800-mt-s/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/02/Xfinity-SCC-O-CUDIMM-RGB-kit.jpg",
+      "publishedAt": "2025-02-13T20:31:35Z",
+      "content": "V-Color's new RAM kit will have two DDR5 DRAM and two filler modules for filling up all the DIMMs on the latest Intel and AMD motherboards.\r\nThe popular high-performance memory maker, V-Color, has in\u2026 [+1830 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": "Mark A. Garcia",
+      "title": "Vein Scans, Muscle Study on Station Informing Ways to Keep Crews Healthy",
+      "description": "Human research, the series of ongoing investigations to understand how to keep astronauts healthy while living long-term in space, was the main science topic aboard the International Space Station on Thursday. The Expedition 72 residents also continued packin\u2026",
+      "url": "https://www.nasa.gov/blogs/spacestation/2025/02/13/vein-scans-muscle-study-on-station-informing-ways-to-keep-crews-healthy/",
+      "urlToImage": "https://images-assets.nasa.gov/image/iss072e616432/iss072e616432~large.jpg",
+      "publishedAt": "2025-02-13T20:31:24Z",
+      "content": "Human research, the series of ongoing investigations to understand how to keep astronauts healthy while living long-term in space, was the main science topic aboard the International Space Station on\u2026 [+3056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Michail",
+      "title": "iPhone 17 Pro Max rumored to feature smaller Dynamic Island",
+      "description": "There\u2019s plenty of time ahead of the iPhone 17 launch but that hasn\u2019t stopped the rumors from spreading and the latest one predicts a smaller display cutout on the iPhone 17 Pro Max. As per tipster Digital Chat Station, the upcoming Pro Max iPhone will see a s\u2026",
+      "url": "https://www.gsmarena.com/iphone_17_pro_max_rumored_to_feature_smaller_dynamic_island-news-66531.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/25/02/iphone-17-pro-max-smaller-dynamic-island/-952x498w6/gsmarena_00.jpg",
+      "publishedAt": "2025-02-13T20:31:01Z",
+      "content": "Theres plenty of time ahead of the iPhone 17 launch but that hasnt stopped the rumors from spreading and the latest one predicts a smaller display cutout on the iPhone 17 Pro Max. As per tipster Digi\u2026 [+1099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Idownloadblog.com"
+      },
+      "author": "Christian Zibreg",
+      "title": "Prime Video on Apple TV app should be less awful now following the latest update",
+      "description": "Amazon has updated its Prime Video app on Apple TV with much-needed improvements, making it feel less clunky and more like a proper tvOS app.",
+      "url": "https://www.idownloadblog.com/2025/02/13/prime-video-on-apple-tv-app-should-be-less-awful-now-after-the-latest-update/",
+      "urlToImage": "https://media.idownloadblog.com/wp-content/uploads/2025/02/Amazon-Prime-Video-Apple-TV-App-Splash-Screen-Siri-Remote-Touchpad-Seek-Gesture.jpg",
+      "publishedAt": "2025-02-13T20:30:51Z",
+      "content": "Amazon has updated its Prime Video app on Apple TV with much-needed improvements, making it feel less clunky and more like a proper tvOS app.\r\nMore accurate Siri Remote gestures. Screenshot: Christia\u2026 [+2655 chars]"
+    }
+  ]
+}

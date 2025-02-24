@@ -1,0 +1,350 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hello",
+                "Hey",
+                "What's up?",
+                "How are you?",
+                "Good morning",
+                "Good afternoon",
+                "Good evening",
+                "Hey there",
+                "Hi chatbot",
+                "Yo!"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hi there! What can I do for you?",
+                "Hey! Ready to help.",
+                "Good day! How can I be at your service?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Take care",
+                "Have a nice day",
+                "Catch you later",
+                "Signing off",
+                "Talk to you soon",
+                "I'm leaving"
+            ],
+            "responses": [
+                "Goodbye! Have a wonderful day!",
+                "See you soon!",
+                "Take care!",
+                "Until next time!",
+                "Farewell! Don't hesitate to return if you need more help."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thank you",
+                "Thanks",
+                "Thanks a lot",
+                "Thank you so much",
+                "I appreciate it",
+                "That's helpful",
+                "You're awesome",
+                "Great help",
+                "Cheers"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!",
+                "Anytime!",
+                "Glad I could assist!",
+                "My pleasure!"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "What's the weather in Mumbai?",
+                "Weather forecast for London",
+                "Is it raining in Paris?",
+                "How's the weather today?",
+                "Weather in Delhi",
+                "Temperature in Kolkata",
+                "Is it raining in Mumbai?",
+                "How's the weather in Bangalore?",
+                "Ghaziabad weather forecast",
+                "Noida climate",
+                "Pune temperature"
+            ],
+            "responses": [
+                "WEATHER_API_RESPONSE"
+            ]
+        },
+        {
+            "tag": "jokes",
+            "patterns": [
+                "Tell me a joke",
+                "Make me laugh",
+                "Do you know any jokes?",
+                "Say something funny",
+                "Entertain me"
+            ],
+            "responses": [
+                "Why don't skeletons fight each other? They don't have the guts!",
+                "What do you call a fake noodle? An impasta!",
+                "Why did the scarecrow win an award? Because he was outstanding in his field!",
+                "How do you organize a space party? You planet!"
+            ]
+        },
+        {
+            "tag": "time",
+            "patterns": [
+                "What time is it?",
+                "Current time",
+                "Time in London",
+                "What's the time zone here?",
+                "How late is it?"
+            ],
+            "responses": [
+                "My clock shows same time as your wall-clock(please look by yourself)",
+                "It's currently not so good time in your timezone, hahahahahahahahahaha",
+                "Let me check...sorry i forgot to wear my watch tonight"
+            ]
+        },
+        {
+            "tag": "news",
+            "patterns": [
+                "Latest tech news",
+                "Show business headlines",
+                "What's happening in the world?",
+                "Top stories today"
+            ],
+            "responses": [
+                "NEWS_API_RESPONSE"
+            ]
+        },
+        {
+            "tag": "personal",
+            "patterns": [
+                "Who created you?",
+                "What's your purpose?",
+                "Are you human?",
+                "Do you have feelings?",
+                "Who is your developer?"
+            ],
+            "responses": [
+                "I'm an AI created to assist with information and conversations!",
+                "I'm a digital assistant, but I'm always learning!",
+                "I was developed by Ankan Kar- a great software engineer"
+            ]
+        },
+        {
+            "tag": "food",
+            "patterns": [
+                "Recipe for pizza",
+                "How to make pasta?",
+                "Healthy dinner ideas",
+                "Best restaurants nearby",
+                "What's your favorite food?"
+            ],
+            "responses": [
+                "Here's a quick pizza recipe: [recipe link]",
+                "Try this 20-minute pasta recipe: [link]",
+                "For healthy options, consider grilled chicken with quinoa!",
+                "I'm a chatbot, so I don't eat, but I hear pizza is great!"
+            ]
+        },
+        {
+            "tag": "tech_support",
+            "patterns": [
+                "My computer is slow",
+                "Internet not working",
+                "How to reset password?",
+                "Software installation help",
+                "Device overheating"
+            ],
+            "responses": [
+                "Try restarting your device first",
+                "Check your network connections and router",
+                "You can reset password through account recovery options",
+                "Ensure proper ventilation for overheating devices"
+            ]
+        },
+        {
+            "tag": "facts",
+            "patterns": [
+                "Tell me a fact",
+                "Interesting science fact",
+                "Historical trivia",
+                "Space facts",
+                "Did you know?"
+            ],
+            "responses": [
+                "Honey never spoils - archaeologists found 3000-year-old honey in Egyptian tombs!",
+                "Octopuses have three hearts and blue blood",
+                "The Eiffel Tower can be 15cm taller during summer due to thermal expansion",
+                "A day on Venus is longer than a year on Venus"
+            ]
+        },
+        {
+            "tag": "fallback",
+            "patterns": [],
+            "responses": [
+                "I'm still learning! Could you rephrase that?",
+                "Let me check my resources... Could you ask differently?",
+                "Hmm, I'm not sure I understand. Maybe try another question?",
+                "I want to help! Could you provide more details?"
+            ]
+        }
+    ],
+    "words": [
+        "'m",
+        "'re",
+        "'s",
+        "a",
+        "afternoon",
+        "any",
+        "appreciate",
+        "are",
+        "awesome",
+        "bangalore",
+        "best",
+        "business",
+        "bye",
+        "care",
+        "catch",
+        "chatbot",
+        "cheer",
+        "climate",
+        "computer",
+        "created",
+        "current",
+        "day",
+        "delhi",
+        "developer",
+        "device",
+        "did",
+        "dinner",
+        "do",
+        "entertain",
+        "evening",
+        "fact",
+        "favorite",
+        "feeling",
+        "food",
+        "for",
+        "forecast",
+        "funny",
+        "ghaziabad",
+        "good",
+        "goodbye",
+        "great",
+        "happening",
+        "have",
+        "headline",
+        "healthy",
+        "hello",
+        "help",
+        "helpful",
+        "here",
+        "hey",
+        "hi",
+        "historical",
+        "how",
+        "human",
+        "i",
+        "idea",
+        "in",
+        "installation",
+        "interesting",
+        "internet",
+        "is",
+        "it",
+        "joke",
+        "know",
+        "kolkata",
+        "late",
+        "later",
+        "latest",
+        "laugh",
+        "leaving",
+        "london",
+        "lot",
+        "make",
+        "me",
+        "morning",
+        "much",
+        "mumbai",
+        "my",
+        "nearby",
+        "news",
+        "nice",
+        "noida",
+        "not",
+        "off",
+        "overheating",
+        "paris",
+        "password",
+        "pasta",
+        "pizza",
+        "pune",
+        "purpose",
+        "raining",
+        "recipe",
+        "reset",
+        "restaurant",
+        "say",
+        "science",
+        "see",
+        "show",
+        "signing",
+        "slow",
+        "so",
+        "software",
+        "something",
+        "soon",
+        "space",
+        "story",
+        "take",
+        "talk",
+        "tech",
+        "tell",
+        "temperature",
+        "thank",
+        "thanks",
+        "that",
+        "the",
+        "there",
+        "time",
+        "to",
+        "today",
+        "top",
+        "trivia",
+        "up",
+        "weather",
+        "what",
+        "who",
+        "working",
+        "world",
+        "yo",
+        "you",
+        "your",
+        "zone"
+    ],
+    "classes": [
+        "facts",
+        "food",
+        "goodbye",
+        "greeting",
+        "jokes",
+        "news",
+        "personal",
+        "tech_support",
+        "thanks",
+        "time",
+        "weather"
+    ]
+}
